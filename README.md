@@ -11,3 +11,5 @@ Root Mean Squre Error (RMSE) is the evaluation metric for this contest
 # Approach 
 
 Build the SARIMA model to forecast the traffic on JetRail for the next 7 months.
+
+Got RMSE of 144.15 on the test set.
